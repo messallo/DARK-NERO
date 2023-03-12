@@ -1,36 +1,64 @@
 {
   "users": {
-    "27683276659@s.whatsapp.net": {
+    "918921419013@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": ""
     },
-    "447441437150@s.whatsapp.net": {
+    "919446740515@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": ""
     },
-    "27787118146@s.whatsapp.net": {
+    "917510245583@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": ""
     },
-    "6281392068116@s.whatsapp.net": {
+    "919526736807@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": ""
     },
-    "23280528499@s.whatsapp.net": {
+    "919074904885@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": ""
     },
-    "923054079703@s.whatsapp.net": {
+    "918943342884@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": ""
     },
-    "255624811286@s.whatsapp.net": {
+    "919037905479@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "919061227311@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94774071805@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "94715760260@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "918156885489@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "919037856700@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "918078195108@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "919447699384@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": ""
     }
   },
   "chats": {
-    "27683276659@s.whatsapp.net": {
+    "918921419013@s.whatsapp.net": {
       "mute": false,
       "wame": false,
       "antilink": false,
@@ -47,7 +75,7 @@
       "antitwitter": false,
       "autoblock": false
     },
-    "447441437150@s.whatsapp.net": {
+    "919446740515@s.whatsapp.net": {
       "mute": false,
       "wame": false,
       "antilink": false,
@@ -64,7 +92,7 @@
       "antitwitter": false,
       "autoblock": false
     },
-    "254738099457-1594537724@g.us": {
+    "120363023708645588@g.us": {
       "mute": false,
       "wame": false,
       "antilink": false,
@@ -81,7 +109,7 @@
       "antitwitter": false,
       "autoblock": false
     },
-    "23280528499@s.whatsapp.net": {
+    "919526736807@s.whatsapp.net": {
       "mute": false,
       "wame": false,
       "antilink": false,
@@ -98,7 +126,58 @@
       "antitwitter": false,
       "autoblock": false
     },
-    "254723096296-1601208218@g.us": {
+    "120363023478249401@g.us": {
+      "mute": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": true,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "autoblock": false
+    },
+    "120363029872786636@g.us": {
+      "mute": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": true,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "autoblock": false
+    },
+    "919037905479@s.whatsapp.net": {
+      "mute": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": true,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "autoblock": false
+    },
+    "120363039385312376@g.us": {
       "mute": false,
       "wame": false,
       "antilink": false,
@@ -130,9 +209,9 @@
     "tebakan": []
   },
   "settings": {
-    "27683276659@s.whatsapp.net": {
-      "status": 0,
-      "autobio": false,
+    "918921419013@s.whatsapp.net": {
+      "status": 1678606668662,
+      "autobio": true,
       "templateImage": false,
       "templateLocation": false,
       "templateGif": true,
